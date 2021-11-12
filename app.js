@@ -14,7 +14,7 @@ const volumeControl = document.getElementById('volume-control');
 
 //SONG TITLES
 //========================================
-const songs = ['hey', 'summer', 'ukulele', 'undeniable', 'welcome_home'];
+const songs = ['hey', 'summer', 'ukulele'];
 
 //KEEP TRACK OF SONG
 //========================================
